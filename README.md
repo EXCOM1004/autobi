@@ -14,4 +14,4 @@ MIT LICENCE
 
 ## maintanner
 
-(주)엑스컴 excom2143@gmail.com
+엑스컴 excom2143@gmail.com
